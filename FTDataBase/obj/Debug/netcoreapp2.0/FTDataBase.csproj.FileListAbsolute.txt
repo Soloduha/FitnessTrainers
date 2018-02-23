@@ -1,0 +1,11 @@
+D:\Google Disk Igor\Visual Studio 2017\FitnessTrainersDataBaseEF\FTDataBase\bin\Debug\netcoreapp2.0\FTDataBase.deps.json
+D:\Google Disk Igor\Visual Studio 2017\FitnessTrainersDataBaseEF\FTDataBase\bin\Debug\netcoreapp2.0\FTDataBase.runtimeconfig.json
+D:\Google Disk Igor\Visual Studio 2017\FitnessTrainersDataBaseEF\FTDataBase\bin\Debug\netcoreapp2.0\FTDataBase.runtimeconfig.dev.json
+D:\Google Disk Igor\Visual Studio 2017\FitnessTrainersDataBaseEF\FTDataBase\bin\Debug\netcoreapp2.0\FTDataBase.dll
+D:\Google Disk Igor\Visual Studio 2017\FitnessTrainersDataBaseEF\FTDataBase\obj\Debug\netcoreapp2.0\FTDataBase.csprojResolveAssemblyReference.cache
+D:\Google Disk Igor\Visual Studio 2017\FitnessTrainersDataBaseEF\FTDataBase\obj\Debug\netcoreapp2.0\FTDataBase.csproj.CoreCompileInputs.cache
+D:\Google Disk Igor\Visual Studio 2017\FitnessTrainersDataBaseEF\FTDataBase\obj\Debug\netcoreapp2.0\FTDataBase.AssemblyInfoInputs.cache
+D:\Google Disk Igor\Visual Studio 2017\FitnessTrainersDataBaseEF\FTDataBase\obj\Debug\netcoreapp2.0\FTDataBase.AssemblyInfo.cs
+D:\Google Disk Igor\Visual Studio 2017\FitnessTrainersDataBaseEF\FTDataBase\bin\Debug\netcoreapp2.0\FTDataBase.pdb
+D:\Google Disk Igor\Visual Studio 2017\FitnessTrainersDataBaseEF\FTDataBase\obj\Debug\netcoreapp2.0\FTDataBase.dll
+D:\Google Disk Igor\Visual Studio 2017\FitnessTrainersDataBaseEF\FTDataBase\obj\Debug\netcoreapp2.0\FTDataBase.pdb
